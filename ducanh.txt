@@ -14,3 +14,4 @@ Git basic:
 - bỏ qua trang thai staged: git commit -a -m "message"
 - chuyển từ trạng thái tracked sang untracked: rm <tenfile>
 còn muốn xóa luôn thì : rm -f <tenfile>
+troi oi
