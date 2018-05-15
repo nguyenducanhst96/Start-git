@@ -1,0 +1,14 @@
+3 loại quản lý phiên bản:
+- cục bộ
+- tập chung
+- phân tán
+
+
+Git basic:
+- tạo một thư mục chưa source mà ko phải đã định sẵn
+- có các giao thưcs truyền tải
+- FIle có 4 trạng thái trong 1 vòng đời là : , , ,
+- tập tin trong thư mục có 2 trạng thái:  ,
+
+
+- bỏ qua trang thai staged: git commit -a -m "message"
