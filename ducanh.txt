@@ -24,3 +24,5 @@ còn muốn xóa luôn thì : rm -f <tenfile>
   git checkout master
   git merge develop
 
+
+* rebase
