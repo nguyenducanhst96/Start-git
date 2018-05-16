@@ -20,4 +20,6 @@ còn muốn xóa luôn thì : rm -f <tenfile>
 - xem toàn bộ branch :git branch
 - tạo 1 branch : git branch <ten branch>
 - chuyển sang nhánh để làm việc: git checkout <ten nhanh>
--day la nhanh develop
+- muốn gộp nhánh từ develop vào master thì develop cần commit trước rồi:
+  git checkout master
+  git merge develop
