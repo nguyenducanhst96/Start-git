@@ -1,3 +1,4 @@
+
 3 loại quản lý phiên bản:
 - cục bộ
 - tập chung
@@ -23,4 +24,9 @@ còn muốn xóa luôn thì : rm -f <tenfile>
 - muốn gộp nhánh từ develop vào master thì develop cần commit trước rồi:
   git checkout master
   git merge develop
+
+* cơ bản về git:
+-3 trạng thái của file: committed(đã luư trên db), modified(đã thay đổi nhưng chưa lưu), staged(đánh dấu chuẩn bị commit).
+- trợ giúp :
+	+ git help <verb>s
 
