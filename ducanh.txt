@@ -28,8 +28,9 @@ còn muốn xóa luôn thì : rm -f <tenfile>
 
 * rebase:
 
-olala
 
+olala
+obama
 
 
 * cơ bản về git:
